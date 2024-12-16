@@ -3,3 +3,7 @@ Az sayıda benzer fotoğrafa sahip olmasına rağmen çok benzer fotoğrafların
 sonrasında **Knn** ile en yakın komşu hesaplanmıştır. Sonuçlar **submission6_knn.csv** dosyasına kaydedilmiştir. 
 En yakın komşularına 0.50 den daha az distance a sahip filenameler çekilip submission2.csv daki değerleriyle değiştirilmiştir.
 Son hali **updated_sub2.csv** dosyasına kaydedilmiştir.
+
+**Takım Üyeleri:**
+Sümeyra Karsavran
+Baha Altan Reisoğlu
